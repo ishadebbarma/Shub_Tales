@@ -1,1 +1,1 @@
-# Shub_Tales
+This project was created for a client as a personalised music portfolio and is currently a work in progress. Once complete, it will showcase their musical works, creative experiments, and signature tracks in a curated, engaging space. The portfolio is designed to highlight the artist’s unique style and journey, offering listeners and collaborators an immersive experience. Stay tuned as the collection grows, and this artist’s sound comes to life! 
